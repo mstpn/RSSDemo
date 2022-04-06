@@ -12,17 +12,19 @@
       <title>This is not a drill</title>
       <dc:creator>@bot_mildred</dc:creator>
       <description>I repeat... This is NOT a drill</description>
-      <pubDate>Wed, 06 Apr 2022 18:40:00 MDT</pubDate>
-      <guid>example.com/guid>
-      <link>example.com/link>
+      <pubDate>Wed, 06 Apr 2022 18:45:00 MDT</pubDate>
+      <guid>example.com</guid>
+      <link>example.com</link>
+      <author>MildredGH</author>
     </item>    
     <item>
       <title>First Tweet</title>
       <dc:creator>@bot_mildred</dc:creator>
       <description>Hello, world!</description>
       <pubDate>Wed, 20 Apr 2020 16:20:20 MDT</pubDate>
-      <guid>example.com/guid>
-      <link>example.com/link>
+      <guid>example.com</guid>
+      <link>example.com</link>
+      <author>MildredGH</author>
     </item>
         
 
