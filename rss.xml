@@ -8,6 +8,16 @@
 </description>
     <language>en-us</language>
     <ttl>40</ttl>  
+    
+     <item>
+      <title>Cunning Students Made Twitter RSS Spoof. You Won't Believe What The Professor Did Next</title>
+      <dc:creator>@bot_mildred</dc:creator>
+      <description>HEYO</description>
+      <pubDate>Wed, 01 Apr 2024 16:20:00 MDT</pubDate>
+      <guid>example.com</guid>
+      <link>example.com</link>
+      <author>MildredGH</author>
+    </item>   
     <item>
       <title>Look at me I'm a fake tweet</title>
       <dc:creator>@bot_mildred</dc:creator>
@@ -26,15 +36,7 @@
       <link>example.com</link>
       <author>MildredGH</author>
     </item>
-    <item>
-      <title>Cunning Students Made Twitter RSS Spoof. You Won't Believe What The Professor Did Next</title>
-      <dc:creator>@bot_mildred</dc:creator>
-      <description>HEYO</description>
-      <pubDate>Wed, 01 Apr 2024 16:20:00 MDT</pubDate>
-      <guid>example.com</guid>
-      <link>example.com</link>
-      <author>MildredGH</author>
-    </item>          
+       
 
 
   </channel>
