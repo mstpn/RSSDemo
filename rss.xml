@@ -15,7 +15,16 @@
       <pubDate>Wed, 06 Apr 2022 18:35:13 MDT</pubDate>
       <guid>example.com/guid>
       <link>example.com/link>
+    </item>    
+    <item>
+      <title>First Tweet</title>
+      <dc:creator>@bot_mildred</dc:creator>
+      <description>Hello, world!</description>
+      <pubDate>Wed, 20 Apr 2020 16:20:20 MDT</pubDate>
+      <guid>example.com/guid>
+      <link>example.com/link>
     </item>
+        
 
 
   </channel>
